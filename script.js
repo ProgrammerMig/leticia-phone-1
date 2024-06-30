@@ -1,4 +1,4 @@
-alert("Esse site contém música alta, recomendo que abaixe o volume. Obrigado :)")
+alert('Não necessário, mas caso preferir, usar o modo "Para Computador".')
 img = document.getElementById("photo")
 cll = document.getElementById("phone")
 button = document.querySelector("button#showContent")
