@@ -1,4 +1,4 @@
-
+alert("Esse site contém música alta, recomendo que abaixe o volume. Obrigado :)")
 img = document.getElementById("photo")
 cll = document.getElementById("phone")
 button = document.querySelector("button#showContent")
